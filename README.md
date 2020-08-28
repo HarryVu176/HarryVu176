@@ -14,7 +14,7 @@ My experience? I study most of thing by myself from reading book, searching Inte
 #### Freelancer
 
 _Q4 2019 to date_<br/>
-Web Platform
+
 - Developing Responsive Websites using CSS3, HTML5 and
 Javascript.
 - Developing Web-based & Cross-platform Applications.
