@@ -1,8 +1,8 @@
 # Hi there, this is Duc Anh Vu or Aki or Harry <3
 
-Facebook [facebook.com/ak.adgk](https://facebook.com/ak.adgk)<br/>
-Instagram [instagram.com/harryvu176](https://instagram.com/harryvu176)<br/>
-Twitter [twitter.com/HarryVuMKS](https://twitter.com/HarryVuMKS)<br/>
+Facebook <br/>
+Instagram <br/>
+Twitter <br/>
 Contact `aki at moekawaii dot space`
 
 I'm a student (well no actually yes) and I was interesting in programming since I was young. I'm curious about everything around me and as long as I can learn and study, I will do that. I have good self learning ability, huge knowledge about life & outside world. I'm a talkative and funny person as well. If people are nice with me, then I will be nice with them too :) Why not? I also want to help and being helpful to others if possible.
