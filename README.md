@@ -45,7 +45,7 @@ hosting for small translation team etc...
 
 #### Programming Languages
 
-- C++ (60%), C# (60%), Python (80%), Java (80%), Javascript
+- C++ (60%), C# (60%), Python (1%), Java (80%), Javascript
 (95%), PHP (95%).
 
 #### Designing & UI/UX
