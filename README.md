@@ -5,7 +5,7 @@ Instagram [instagram.com/harryvu176](https://instagram.com/harryvu176)<br/>
 Twitter [twitter.com/HarryVuMKS](https://twitter.com/HarryVuMKS)<br/>
 Contact `aki at moekawaii dot space`
 
-I'm a student and I was interesting in programming since I was young. I'm curious about everything around me and as long as I can learn and study, I will do that. I have good self learning ability, huge knowledge about life & outside world. I'm a talkative and funny person as well. If people are nice with me, then I will be nice with them too :) Why not? I also want to help and being helpful to others if possible.
+I'm a student (well no actually yes) and I was interesting in programming since I was young. I'm curious about everything around me and as long as I can learn and study, I will do that. I have good self learning ability, huge knowledge about life & outside world. I'm a talkative and funny person as well. If people are nice with me, then I will be nice with them too :) Why not? I also want to help and being helpful to others if possible.
 
 My experience? I study most of thing by myself from reading book, searching Internet and surfing StackOverFlow. I specialise in web dev, the Javascript ecosystem, agile working, project specification and planning, testing, automation and web-related devops. I'm comfortable with tricky tasks and more creative/UX related work.
 
@@ -75,6 +75,6 @@ Illustrator, Express, XD...
 ## Education
 
 - _Aug 2019 to date_
-Sir Frederick Banting Secondary School
+...
 - _Aug 2019 to June 2019_ 
-Séminaire Marie-Reine-du-Clergé - École secondaire privée
+...
