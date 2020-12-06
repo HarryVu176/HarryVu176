@@ -1,82 +1,23 @@
-# Hi there, this is Duc Anh Vu or Aki or Harry <3
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://t.me/aki176">
+  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://facebook.com/ak.adgk">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-Facebook <br/>
-Instagram <br/>
-Twitter <br/>
-Contact `aki at moekawaii dot space`
+<a href="https://www.instagram.com/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.reddit.com/user/geekyabhi/">
+  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
 
-I'm a student (well no actually yes) and I was interesting in programming since I was young. I'm curious about everything around me and as long as I can learn and study, I will do that. I have good self learning ability, huge knowledge about life & outside world. I'm a talkative and funny person as well. If people are nice with me, then I will be nice with them too :) Why not? I also want to help and being helpful to others if possible.
 
-My experience? I study most of thing by myself from reading book, searching Internet and surfing StackOverFlow. I specialise in web dev, the Javascript ecosystem, agile working, project specification and planning, testing, automation and web-related devops. I'm comfortable with tricky tasks and more creative/UX related work.
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=aki176.aki176)
 
-## Recent work, Experiences and Projects
-
-#### Freelancer
-
-_Q4 2019 to date_<br/>
-
-- Developing Responsive Websites using CSS3, HTML5 and
-Javascript.
-- Developing Web-based & Cross-platform Applications.
-- Developing Google Chrome Extensions for a lot of
-purposes.
-- Developing Websites with NodeJs, PHP or any languages
-support TCP/UDP.
-- Server build, setup, deploy, managing and maintaining.
-- Proficient in using NodeJs dependencies and building
-them
-- Developing chatbot, especially Discord Bots.
-Windows Platform
-- Developing RPG Games using RPG Maker MV.
-Mobile Platform
-- Developing Games using GameMaker: Studio for Mobile.
-- Developing Webview Application.
-
-#### CEO at MoeKawaiiSpace
-
-_Q1 2020 to date_<br/>
-[MoeKawaiiSpace](https://moekawaii.space) is a community for Anime fans. We build and
-support it community, by creating many products related to
-Anime. For example, 24/7 Radio, Shorten link service with Anime
-design, Watch Anime for FREE website... We also provide free resources from artwork to
-hosting for small translation team etc...
-
-## Skills
-
-#### Programming Languages
-
-- C++ (60%), C# (60%), Python (1%), Java (80%), Javascript
-(95%), PHP (95%).
-
-#### Designing & UI/UX
-
-- HTML5, CSS3, Javascript (ES5 & ES6).
-- Using Adobe Photoshop, Illustrator, XD to create
-templates and art.
-
-#### Database Engine
-
-- MySQL, PostgreSQL, MongoDB.
-
-#### Engines, Tools & Frameworks
-
-- Engine: GameMaker: Studio, Unity 2D & 3D.
-- Tools: Git, Visual Studio, Visual Code, npm, Photoshop CC,
-Illustrator, Express, XD...
-- Frameworks: CodeIgniter, VueJS, Wordpress, Wix, Shopify, Squarespace...
-
-#### Learning, Soft Skills and Personality
-- Self learning.
-- Have huge knowledge about life & outside world.
-- Funny person.
-- Being helpful to others.
-- Curious about everything and want to learn more
-
-## Education
-
-- _Aug 2019 to date_
-...
-- _Aug 2019 to June 2019_ 
-...
 
 [![Aki176's github stats](https://github-readme-stats.vercel.app/api?username=aki176)](https://github.com/anuraghazra/github-readme-stats)
