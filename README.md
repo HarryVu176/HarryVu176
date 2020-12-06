@@ -15,6 +15,10 @@
 Hestia, Aki Adagaki, Neko Fujinomiya, Aerya, Gawr Gura...
 
 
+What are you trying to find?
+The less you know sometimes, the better.
+
+
 ![Aki176's header](https://i.imgur.com/stXNYvK.jpg)
 
 
