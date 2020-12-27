@@ -7,19 +7,27 @@
 <a href="https://www.instagram.com/harryvu176/">
   <img align="left" alt="Aki176's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-  
-  
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=aki176.aki176)
 
 
-Hestia, Aki Adagaki, Neko Fujinomiya, Aerya, Gawr Gura...
+### About me
+- Nickname: **Aki**
+- Realname: **Duc Anh Vu**
+- Don't know how to code, use github for git and hub.
+- Using random keyboard, random mouse, random smartphone, random laptop, random smartwatch, random tablet...
 
 
-What are you trying to find?
-The less you know sometimes, the better.
+### Skills
+- sleep (100%)
+- eat (25%)
+- breath (100%)
+- learn how to code (-1%)
 
 
-![Aki176's header](https://i.imgur.com/stXNYvK.jpg)
+### Fav manga, light novel, anime
+- Too much, cannot be listed here.
 
 
-[![Aki176's github stats](https://github-readme-stats.vercel.app/api?username=aki176)](https://github.com/anuraghazra/github-readme-stats)
+![Random image](https://i.imgur.com/stXNYvK.jpg)
+
+
+[![Aki176'stats](https://github-readme-stats.vercel.app/api?username=Aki176&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
