@@ -7,6 +7,10 @@
 <a href="https://www.instagram.com/harryvu176/">
   <img align="left" alt="Aki176's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+  <br></br>
+
+
+The less you know sometimes, the better.
 
 
 ### About me
