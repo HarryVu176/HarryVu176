@@ -22,7 +22,7 @@ The less you know sometimes, the better.
 
 ### Skills
 - sleep (100%)
-- eat (25%)
+- eat (100%)
 - breath (100%)
 - learn how to code (-1%)
 
