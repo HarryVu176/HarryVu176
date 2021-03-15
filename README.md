@@ -31,7 +31,7 @@ The less you know sometimes, the better.
 - Too much, cannot be listed here.
 
 
-![Random image](https://i.imgur.com/stXNYvK.jpg)
+![Random image](https://i.imgur.com/UKcwuI5.jpg)
 
 
-[![Aki176'stats](https://github-readme-stats.vercel.app/api?username=Aki176&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Aki176'stats](https://github-readme-stats.vercel.app/api?username=AnosVoldigoad176&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
