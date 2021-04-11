@@ -17,7 +17,8 @@ The less you know sometimes, the better.
 - Nickname: **Anos Voldigoad** or **Anos**
 - Realname: **Duc Anh Vu**
 - Don't know how to code, use github for git and hub.
-- Using random keyboard, random mouse, random smartphone, random laptop, random smartwatch, random tablet...
+- Baka!
+- You may have seen my name on the internet multiple time, or may not. However there is only one AnosVoldigoad176 :)
 
 
 ### Skills
