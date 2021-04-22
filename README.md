@@ -10,7 +10,7 @@
   <br></br>
 
 
-The less you know sometimes, the better.
+Silence is golden.
 
 
 ### About me
