@@ -12,7 +12,7 @@ Silence is golden.
 
 ### About me
 - Nickname: **Anos Voldigoad** or **Anos**
-- Realname: **Duc Anh Vu**
+- Realname: **[REDACTED]**
 - Don't know how to code, use github for git and hub.
 - Baka!
 - You may have seen my name on the internet multiple time, or may not. However there is only one AnosVoldigoad176 :)
