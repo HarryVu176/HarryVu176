@@ -16,6 +16,7 @@ Silence is golden.
 - Don't know how to code, use github for git and hub.
 - Baka!
 - You may have seen my name on the internet multiple time, or may not. However there is only one AnosVoldigoad176 :)
+- Yes I am Harry stop questioning?
 
 
 ### Skills
