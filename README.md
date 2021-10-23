@@ -29,5 +29,3 @@ Silence is golden.
 ### Fav manga, light novel, anime
 - Too much, cannot be listed here.
 
-
-![Random image](https://i.imgur.com/UKcwuI5.jpg)
