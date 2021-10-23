@@ -13,7 +13,7 @@ Silence is golden.
 ### About me
 - Nickname: **Anos Voldigoad** or **Anos**
 - Realname: **[REDACTED]**
-- Don't know how to code, use github for git and hub.
+- Don't know how to code.
 - Baka!
 - You may have seen my name on the internet multiple time, or may not. However there is only one AnosVoldigoad176 :)
 - Yes I am Harry stop questioning?
@@ -23,7 +23,7 @@ Silence is golden.
 - sleep (100%)
 - eat (100%)
 - breath (100%)
-- learn how to code (-1%)
+- code (-1%)
 
 
 ### Fav manga, light novel, anime
