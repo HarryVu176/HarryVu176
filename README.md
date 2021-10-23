@@ -31,6 +31,3 @@ Silence is golden.
 
 
 ![Random image](https://i.imgur.com/UKcwuI5.jpg)
-
-
-[![Aki176'stats](https://github-readme-stats.vercel.app/api?username=AnosVoldigoad176&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
