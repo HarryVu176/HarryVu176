@@ -14,9 +14,9 @@ Silence is golden.
 - Nickname: **Anos Voldigoad** or **Anos**
 - Realname: **[REDACTED]**
 - Don't know how to code.
-- Baka!
 - You may have seen my name on the internet multiple time, or may not. However there is only one AnosVoldigoad176 :)
 - Yes I am Harry stop questioning?
+- https://www.youtube.com/results?search_query=Chinese+OST+Drama
 
 
 ### Skills
@@ -26,6 +26,6 @@ Silence is golden.
 - code (-1%)
 
 
-### Fav manga, light novel, anime
-- Too much, cannot be listed here.
+### What do I do in my free time?
+- C-Drama and K-Drama, veri HQ.
 
