@@ -28,5 +28,5 @@ Silence is golden.
 
 
 ### What do I do in my free time?
-- C-Drama and K-Drama, veri HQ.
+- C-Drama and K-Drama, very HQ.
 
