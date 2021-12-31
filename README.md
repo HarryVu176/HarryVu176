@@ -12,11 +12,9 @@ Silence is golden.
 
 
 ### About me
-- Nickname: **Anos Voldigoad** or **Anos**
-- Realname: **[REDACTED]**
+- Nickname: **Anos176**
 - Don't know how to code.
 - You may have seen my name on the internet multiple time, or may not. However there is only one AnosVoldigoad176 :)
-- Yes I am Harry.
 - https://www.youtube.com/results?search_query=Chinese+OST+Drama
 
 
