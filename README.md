@@ -1,13 +1,6 @@
 Silence is golden.
 
 
-### About me
-- Nickname: **Anos176**
-- Don't know how to code.
-- You may have seen my name on the internet multiple time, or may not. However there is only one AnosVoldigoad176 :)
-- https://www.youtube.com/watch?v=eMKOSMhs_xE
-
-
 ### Skills
 - sleep (100%)
 - eat (100%)
