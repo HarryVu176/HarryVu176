@@ -1,13 +1,3 @@
-### Hey there
-<a href="https://t.me/AnosVoldigoad176">
-  <img align="left" alt="AnosVoldigoad176's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.facebook.com/a23161702v/">
-  <img align="left" alt="AnosVoldigoad176's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-  </a>
-  <br></br>
-
-
 Silence is golden.
 
 
