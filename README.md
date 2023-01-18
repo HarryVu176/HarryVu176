@@ -8,6 +8,6 @@ Silence is golden.
 - code (-1%)
 
 
-### What do I do in my free time?
-- C-Drama and K-Drama, very HQ.
+### What do I do for a living?
+- Yes
 
