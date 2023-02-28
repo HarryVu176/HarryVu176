@@ -12,8 +12,8 @@ Silence is golden.
 - Yes
 
 ### CP
-- https://codeforces.com/HarryVu176
-- https://leetcode.com/HarryVu176
-- https://atcoder.jp/HarryVu176
-- https://open.kattis.com/users/harryvu176
+- [Codeforces](https://codeforces.com/profile/HarryVu176)
+- [Leetcode](https://leetcode.com/HarryVu176)
+- [AtCoder](https://atcoder.jp/users/HarryVu176)
+- [Kattis](https://open.kattis.com/users/harryvu176)
 
