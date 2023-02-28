@@ -15,5 +15,5 @@ Silence is golden.
 - https://codeforces.com/HarryVu176
 - https://leetcode.com/HarryVu176
 - https://atcoder.jp/HarryVu176
-- https://open.kattis.com/harryvu176
+- https://open.kattis.com/users/harryvu176
 
