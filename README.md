@@ -11,3 +11,9 @@ Silence is golden.
 ### What do I do for a living?
 - Yes
 
+### CP
+- https://codeforces.com/HarryVu176
+- https://leetcode.com/HarryVu176
+- https://atcoder.jp/HarryVu176
+- https://open.kattis.com/harryvu176
+
